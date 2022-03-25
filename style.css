@@ -9,6 +9,8 @@
 
 -----------------------------------------------------------------------------------*/
 
+
+			
 /* ----------------------------------------------------------------
 
 	- Basic
@@ -259,7 +261,7 @@ h2 > span:not(.nocolor):not(.badge),
 h3 > span:not(.nocolor):not(.badge),
 h4 > span:not(.nocolor):not(.badge),
 h5 > span:not(.nocolor):not(.badge),
-h6 > span:not(.nocolor):not(.badge) { color: #1ABC9C; }
+h6 > span:not(.nocolor):not(.badge) { color: #C60000; }
 
 p,
 pre,
@@ -8927,7 +8929,7 @@ td.actions {
 	padding: 8px 22px;
 	font-size: 0.875rem;
 	line-height: 24px;
-	background-color: #1ABC9C;
+	background-color: #C60000;
 	color: #FFF;
 	font-weight: 700;
 	text-transform: uppercase;
